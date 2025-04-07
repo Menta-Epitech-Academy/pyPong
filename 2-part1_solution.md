@@ -1,6 +1,4 @@
 # pyPong - Discover Python - Créer votre mini jeu - Solutions
-
-- Solution
     
     ```python
     # script:  python
