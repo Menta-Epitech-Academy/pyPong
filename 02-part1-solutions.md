@@ -1,6 +1,6 @@
 # pyPong - Discover Python - Le pad - Solutions
 
-## Solution
+## Solution exercice 1
     
 ```python
     # script:  python
@@ -18,12 +18,11 @@
      cls()
      rect(0,0,120,120,10)
      rect(padx, 110, padw, padh, 12)
-    
 ```
     
-- Solution
-    
-    ```python
+## Solution exercice 2
+
+```python
     # script:  python
     padx=45
     padw=30
@@ -38,6 +37,5 @@
     	 padx = padx + 2
      cls()
      rect(0,0,120,120,10)
-     rect(padx, 110, padw, padh, 12)
-    
-    ```
+     rect(padx, 110, padw, padh, 12)    
+```
