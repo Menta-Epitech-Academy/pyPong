@@ -2,18 +2,18 @@
 
 ## Solution exercice 1
     
-    ```python
+```python
     ballx=60
     bally=60
     
     def TIC():
     	global ballx,bally
       circ(ballx,bally,3,5)
-    ```
+```
 
 ## Solution exercice 2
     
-    ```python
+```python
     ballspeedx=2
     ballspeedy=-1
     
@@ -21,11 +21,11 @@
     
      ballx = ballspeedx + ballx
      bally = ballspeedy + bally
-    ```
+```
 
 ## Solution exercice 3
     
-    ```python
+```python
     ballspeedx=2
     ballspeedy=-1
     
@@ -39,4 +39,4 @@
     	  ballspeedx = -ballspeedx
      if bally - 3 < 0 :
       ballspeedy = -ballspeedy
-    ```
+```
