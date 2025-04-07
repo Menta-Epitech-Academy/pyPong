@@ -1,6 +1,6 @@
 # pyPong - Discover Python - Créer votre mini jeu - Solutions
     
-    ```python
+    ```
     # script:  python
     padx=45
     padw=30
@@ -16,5 +16,4 @@
      cls()
      rect(0,0,120,120,10)
      rect(padx, 110, padw, padh, 12)
-    
     ```
