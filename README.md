@@ -12,7 +12,7 @@
     ![asset/EPI-LOGO-ACCROCHE-2023-QUADRI.png]
     
 
-# Pré-requis
+## Pré-requis
 
 TIC-80 est une fantasy retro console open source conçu pour créer, jouer et partager de petits jeux. Prenez quelques instants pour la découvrir en testant un jeu : [https://tic80.com/play](https://tic80.com/play)
 
