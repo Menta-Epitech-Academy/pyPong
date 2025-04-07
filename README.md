@@ -21,7 +21,7 @@ Pour réaliser cet atelier, vous pouvez utiliser directement TIC-80 dans votre n
 - Vous pouvez ajouter des fonctionnalités de votre choix et personnaliser votre projet : c’est ce que  nous appelons un bonus à Epitech et c’est possible pour tous les projets
 - Les IA génératives peuvent sûrement faire cet atelier, mais si vous les utilisez vous n’apprendrez rien.
 
-[/static/logo_epitech.png]
+![Epitech](/static/logo_epitech.png)
     
 
 ## Crédits
