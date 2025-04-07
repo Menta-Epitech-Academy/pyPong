@@ -1,6 +1,6 @@
 # pyPong - Discover Python - Le pad - Solutions
 
-## Solution exercice 1
+- Solution
     
     ```python
     # script:  python
@@ -20,7 +20,8 @@
      rect(padx, 110, padw, padh, 12)
     
     ```
-## Solution exercice 2
+    
+- Solution
     
     ```python
     # script:  python
