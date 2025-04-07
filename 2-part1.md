@@ -61,24 +61,11 @@ En vous inspirant du code précédent, vous devez faire en sorte que le pad puis
     
     La fonction **`btn`** prend en paramètre un nombre ( 3 : flèche droite du clavier). Une page dans l’aide contient le tableau de correspondance avec les touches du clavier :  [https://github.com/nesbox/TIC-80/wiki/key-map](https://github.com/nesbox/TIC-80/wiki/key-map)
     
-- Solution
+### Exercice 2 : Limitez les mouvement du pad
+
+Vous voulez maintenant améliorer les mouvements du pad en faisant en sorte qu’il reste dans le carré du jeu
+
+- Indice
     
-    ```python
-    # script:  python
-    padx=45
-    padw=30
-    padh=3
-    
-    def TIC():
-     global padx
-      
-     if btn(2):
-    	 padx = padx - 2
-     if btn(3):
-    	 padx = padx + 2
-     cls()
-     rect(0,0,120,120,10)
-     rect(padx, 110, padw, padh, 12)
-    
-    ```
+    Ajouter une condition supplémentaire dans votre `if` avec l’opérateur logique `and`
     
