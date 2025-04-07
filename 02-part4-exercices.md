@@ -1,4 +1,4 @@
-# pyPong - Discover Python - interface
+# pyPong - Discover Python - Interface
 
 ## Exercice 1 : le score
 
