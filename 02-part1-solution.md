@@ -1,4 +1,4 @@
-# pyPong - Discover Python - Créer votre mini jeu - Solutions
+# pyPong - Discover Python - Le pad - Solutions
 
 - Solution exercice 1
     
