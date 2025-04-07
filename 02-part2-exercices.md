@@ -1,4 +1,4 @@
-# pyPong - Discover Python - Créer la balle rebondissante
+# pyPong - Discover Python - La balle
 
 ## Exercice 1 : Dessinez  la balle
 
