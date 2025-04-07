@@ -10,7 +10,7 @@ Vous allez utiliser la fonction  `circ` pour créer la balle au centre de l’é
     
     
 
-### Exercice 2 : Faire bouger la balle
+## Exercice 2 : Faire bouger la balle
 
 Pour faire bouger la balle, vous allez modifier les coordonnées du centre :  `ballx` et `bally` 
 
@@ -24,7 +24,7 @@ Tout d’abord essayez de faire bouger la balle en diagonal vers le haut et vers
     
 
 
-### Exercice 3 : Faire rebondir la balle
+## Exercice 3 : Faire rebondir la balle
 
 Pour faire rebondir la balle, vous devez inverser la direction de la balle en fonction de sa position à l’écran. 
 
