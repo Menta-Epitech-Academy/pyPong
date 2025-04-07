@@ -4,9 +4,8 @@
 
 Vous allez utiliser la fonction  `circ` pour créer la balle au centre de l’écran, pensez à utiliser des variables `ballx` et `bally` pour pouvoir déplacer votre balle dans l’écran de jeu
 
-- Indice
-    
-    vous pouvez aller consulter l’aide de TIC80 [https://tic80.com/learn](https://tic80.com/learn) et retrouver tous les paramètres de la fonction `circ` 
+> [!TIP]
+> vous pouvez aller consulter l’aide de TIC80 [https://tic80.com/learn](https://tic80.com/learn) et retrouver tous les paramètres de la fonction `circ` 
     
     
 
@@ -18,9 +17,8 @@ Pour obtenir une trajectoire en diagonal (comme sur un billard), il faut modifie
 
 Tout d’abord essayez de faire bouger la balle en diagonal vers le haut et vers la droite en utilisant deux nouvelles variables `ballspeedx` et `ballspeedy`
 
-- Indice
-    
-    ![help](/static/Capture_decran_2024-12-03_a_22.03.04.png)
+> [!TIP]
+> ![help](/static/Capture_decran_2024-12-03_a_22.03.04.png)
     
 
 
@@ -36,8 +34,6 @@ La balle est dans la position 1 et se dirige vers la position 2 en suivant la tr
 
 Une fois arrivé au niveau de la bordure de la zone de jeu, sur notre schéma à la position `x=120` alors on inverse la vitesse de la balle et `ballspeedx = -2` 
 
-- Indice
-    
-    Il faut penser à prendre en compte le rayon de la balle.
-    
-    Vous avez 3 cas à gérer, la bordure du haut, la bordure de droite et la bordure de gauche.   
+> [!TIP]
+> Il faut penser à prendre en compte le rayon de la balle.
+> Vous avez 3 cas à gérer, la bordure du haut, la bordure de droite et la bordure de gauche.   
