@@ -1,4 +1,4 @@
-# pyPong - Discover Python - Créer la balle rebondissante - Solutions
+# pyPong - Discover Python - La balle - Solutions
 
 ## Solution exercice 1
     
