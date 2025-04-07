@@ -1,6 +1,7 @@
 # pyPong - Discover Python - Tutoriel
 
-## Initialiser TIC-80 pour pouvoir utiliser le langage Python
+## Avant de commencer
+# Initialiser TIC-80 pour pouvoir utiliser le langage Python
 
 il vous suffit de taper la commande suivante
 
@@ -8,17 +9,18 @@ il vous suffit de taper la commande suivante
 new python
 ```
 
-## Reset “hello world”
+# Reset “hello world”
 
 Le plus simple pour bien comprendre le fonctionnement de TIC-80 consiste de partir d’un environnement vierge, nous allons donc supprimer tous les éléments de la démo.
 
 - Utilisez la touche  **`ESC`** de votre clavier pour vous rendre dans l’éditeur de code
 - Vous pouvez sélectionner tout texte avec **`CTRL`+`A`** et ensuite supprimer le code existant
-# Créer votre mini jeu
+
+## Créer votre mini jeu
 
 Vous êtes prêt à créer votre premier mini jeu
 
-## Affichage du pad et de l’écran de jeu
+### Affichage du pad et de l’écran de jeu
 
 Rendez vous dans  l’éditeur, normalement vous y êtes déjà, et écrivez le code suivant : 
 
@@ -33,7 +35,7 @@ def TIC():
 
 Vous pouvez maintenant retourner sur le terminal avec la touche **`ESC`** de votre clavier et taper la commande **`run`** pour lancer votre jeu
 
-### Quelques explications
+#### Quelques explications
 
 Chaque environnement et chaque langage de programmation possède ses spécificités. Pour cet atelier, nous utilisons le langage Python et l’environnement TIC-80 : 
 
@@ -42,7 +44,7 @@ Chaque environnement et chaque langage de programmation possède ses spécificit
 - Le code en dessous de la partie principale du programme doit respecter une indentation propre au python : il faut un espace au début de chaque ligne comme dans l’exemple
 - Nous pouvons utiliser des instructions prédéfinies comme `cls()` pour effacer l’écran (CLear Screen) et `rect()` pour dessiner des rectangles.
 
-## Faire bouger le pad
+### Faire bouger le pad
 
 Pour arriver à faire bouger le pad avec le clavier, nous devons  : 
 
