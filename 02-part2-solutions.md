@@ -11,7 +11,6 @@
       circ(ballx,bally,3,5)
     ```
 
-
 ## Solution exercice 2
     
     ```python
@@ -41,4 +40,3 @@
      if bally - 3 < 0 :
       ballspeedy = -ballspeedy
     ```
- 
