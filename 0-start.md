@@ -1,4 +1,4 @@
-# pyPong - Discover Python
+# pyPong - Discover Python - démarrer
 
 ## La méthode Epitech : Learn different
 
