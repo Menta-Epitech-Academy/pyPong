@@ -1,6 +1,6 @@
 # pyPong - Discover Python - Créer la balle rebondissante - Solutions
 
-- Solution exercice 1
+## Solution exercice 1
     
     ```python
     ballx=60
@@ -12,7 +12,7 @@
     ```
 
 
-- Solution exercice 2
+## Solution exercice 2
     
     ```python
     ballspeedx=2
@@ -24,7 +24,7 @@
      bally = ballspeedy + bally
     ```
 
-- Solution exercice 3
+## Solution exercice 3
     
     ```python
     ballspeedx=2
