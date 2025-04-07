@@ -11,8 +11,7 @@ Vous allez devoir faire en sorte de la balle “respawn” au point de départ d
 
 Lorsque la balle se retrouve en collision avec le pad, vous allez devoir faire en sorte que la balle rebondisse sur le pad. Cette étape est importante car c’est à partir de ce moment la que votre jeu sera vraiment jouable
 
-- Indice
-    
-    Utilisez une triple condition qui utilise les variables `ballx` `bally`  `padx`  `pady`  et `padw`   pour gérer la collision
+> [!TIP]
+> Utilisez une triple condition qui utilise les variables `ballx` `bally`  `padx`  `pady`  et `padw`   pour gérer la collision
 
     
