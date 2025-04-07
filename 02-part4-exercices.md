@@ -4,11 +4,10 @@
 
 Avec la fonction `print` et la fonction `str` , vous allez afficher le score à l’écran, la méthode de calcul est simple : plus 10 points à chaque fois que la balle rebondit sur le pad
 
-- Indice
-    
-    Positionnez la fonction print à la fin de votre fonction `TIC()` pour que le score s’affiche au dessus de tous les autres élements
-    
-    Créez une nouvelle variable `score` que vous allez incrémenter dans la condition qui permet de faire rebondir la balle
+> [!TIP]
+> Positionnez la fonction print à la fin de votre fonction `TIC()` pour que le score s’affiche au dessus de tous les autres élements
+> 
+> Créez une nouvelle variable `score` que vous allez incrémenter dans la condition qui permet de faire rebondir la balle
     
     
 
