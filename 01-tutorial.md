@@ -1,7 +1,7 @@
 # pyPong - Discover Python - Tutoriel
 
 ## Avant de commencer
-# Initialiser TIC-80 pour pouvoir utiliser le langage Python
+### Initialiser TIC-80 pour pouvoir utiliser le langage Python
 
 il vous suffit de taper la commande suivante
 
@@ -9,7 +9,7 @@ il vous suffit de taper la commande suivante
 new python
 ```
 
-# Reset “hello world”
+### Reset “hello world”
 
 Le plus simple pour bien comprendre le fonctionnement de TIC-80 consiste de partir d’un environnement vierge, nous allons donc supprimer tous les éléments de la démo.
 
