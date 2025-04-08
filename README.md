@@ -12,6 +12,18 @@ Tous les outils sont intégrés pour vous permettre de créer facilement un jeu 
 
 Pour réaliser cet atelier, vous pouvez utiliser directement TIC-80 dans votre navigateur : https://tic80.com/create.
 
+## Déroulement de l'activité
+
+- [Tutoriel](01-tutorial.md)
+- [Partie 1 : le pad](/02-part1-exercices.md)
+- [Partie 2 : la balle](/02-part2-exercices.md)
+- [Partie 3 : les collisions](/02-part3-exercices.md)
+- [Partie 4 : l'interface](/02-part4-exercices.md)
+- [Bonus](/03-bonus.md)
+
+
+
+
 ## La méthode Epitech : Learn different
 
 - Vous allez acquérir de nouvelles compétences en pratiquant et en vous amusant.
