@@ -18,7 +18,7 @@ Pour obtenir une trajectoire en diagonal (comme sur un billard), il faut modifie
 Tout d’abord essayez de faire bouger la balle en diagonal vers le haut et vers la droite en utilisant deux nouvelles variables `ballspeedx` et `ballspeedy`
 
 > [!TIP]
-> ![help](/static/Capture_decran_2024-12-03_a_22.03.04.png)
+> ![help](./static/Capture_decran_2024-12-03_a_22.03.04.png)
     
 
 
@@ -28,7 +28,7 @@ Pour faire rebondir la balle, vous devez inverser la direction de la balle en fo
 
 si la balle se retrouve en limite avec la zone de jeu alors on simule une collision en inversant la vitesse de la balle sur l’axe sur lequel se trouve la collision
 
-![help](/static/Capture_decran_2024-12-03_a_22.11.02.png)
+![help](./static/Capture_decran_2024-12-03_a_22.11.02.png)
 
 La balle est dans la position 1 et se dirige vers la position 2 en suivant la trajectoire verte dans ce cas la `ballspeedx = 2` 
 
