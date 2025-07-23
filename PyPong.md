@@ -346,7 +346,6 @@ Vous pouvez ajouter des nouvelles fonctionnalités de votre jeu comme un écran 
 
 Vous pouvez aussi créer un nouveau jeu en vous appuyant sur tout ce que vous avez appris dans ce coding club comme le célèbre jeu PONG à deux joueurs et pourquoi pas implémenter une IA pour jouer contre vous 
 
-![pong-video-game.gif](pong-video-game.gif)
 
 # Crédits
 
