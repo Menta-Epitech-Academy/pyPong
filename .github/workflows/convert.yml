@@ -35,7 +35,7 @@ jobs:
           docker run --rm \
             -v ${{ github.workspace }}:/ARTIFACTS \
             ghcr.io/menta-epitech-academy/docker-md-converter:main \
-            -d
+            -d \
             -y PyPong.yaml \
             PyPong.md 
 
